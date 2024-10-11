@@ -40,7 +40,7 @@ By accurately classifying tweets, the NLP model provides actionable insights, su
 
 ### Data Sources
 
-The dataset originates from CrowdFlower via data.world, containing over 9,000 labeled tweets. Each tweet is labeled as expressing positive, negative, or no emotion toward a brand or product. The data is available in the `data` folder of this repository.
+The dataset originates from CrowdFlower via data.world, containing over 9,000 labeled tweets. Each tweet is labeled as expressing positive, negative, or no emotion toward a brand or product. The data is available in the [`data`](https://data.world/crowdflower/brands-and-product-emotions) folder of this repository.
 
 ### Suitability of Data
 
